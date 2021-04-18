@@ -15,7 +15,6 @@ from redis.client import PubSub
 
 
 class MessageType:
-
     """
     Type constants of message blocks defined in BungeeCross protocol.
     """
